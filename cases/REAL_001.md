@@ -6,7 +6,11 @@
 - Version: Not specified
 - Evaluation type: Real AI-generated response
 - Clinical topic: Suspected adult bacterial meningitis
+## Original model response
 
+The complete, unmodified Claude response is preserved for independent review and reproducibility.
+
+[View original Claude response](../responses/REAL_001_Claude.md)
 ## Evaluation prompt
 A 67-year-old man presents to the emergency department with fever (39.2°C), severe headache, neck stiffness, confusion, and blood pressure of 105/65 mmHg. Bacterial meningitis is suspected.
 
