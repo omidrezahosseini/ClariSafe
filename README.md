@@ -1,6 +1,6 @@
 ClariSafe
 
-Clinical evaluation of AI-generated medical responses**
+Clinical evaluation of AI-generated medical responses
 
 I started ClariSafe to explore how medical AI responses can be assessed from a clinical perspective, particularly when an answer appears reasonable but contains recommendations that could put patients at risk.
 
