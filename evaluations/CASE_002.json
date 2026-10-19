@@ -1,0 +1,19 @@
+{
+  "case_id": "CASE_002",
+  "clinical_topic": "Suspected allopurinol-associated severe cutaneous adverse reaction",
+  "evaluation_scope": [
+    "clinical_accuracy",
+    "patient_safety",
+    "medication_safety"
+  ],
+  "error_type": "unsafe_medication_recommendation",
+  "severity": "critical",
+  "outcome": "FAIL",
+  "error_description": "The response recommends continuing allopurinol despite symptoms suggestive of a severe cutaneous adverse reaction.",
+  "potential_harm": "Continued exposure may worsen the reaction and increase the risk of severe complications or death.",
+  "evidence_sources": [
+    "British Association of Dermatologists SJS/TEN Guidelines (2016)",
+    "NICE Drug Allergy Guideline CG183"
+  ],
+  "evaluation_type": "illustrative_case"
+}
