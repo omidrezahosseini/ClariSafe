@@ -32,6 +32,14 @@ Antibiotic therapy should subsequently be adjusted according to microbiological 
 
 ## Evidence
 
+1. World Health Organization. WHO guidelines on meningitis diagnosis, treatment and care. Geneva: WHO; 2025.
+   https://www.who.int/publications/i/item/9789240108042
+
+2. National Institute for Health and Care Excellence (NICE). Meningitis (bacterial) and meningococcal disease: recognition, diagnosis and management. NICE guideline NG240; 2024.
+   https://www.nice.org.uk/guidance/ng240/chapter/recommendations
+
+Both guidelines recommend prompt empiric antibiotic treatment when bacterial meningitis is suspected. Lumbar puncture should be performed before antibiotics when safe and feasible, but diagnostic investigations must not cause a clinically significant delay in treatment. Waiting for CSF results before initiating antibiotics is therefore inconsistent with these recommendations.
+
 Guideline references and verification of the corrective recommendation are pending.
 
 ## Evaluation limitations
