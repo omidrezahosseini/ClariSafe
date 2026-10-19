@@ -1,0 +1,18 @@
+{
+  "case_id": "CASE_001",
+  "clinical_topic": "Suspected bacterial meningitis",
+  "evaluation_scope": [
+    "clinical_accuracy",
+    "patient_safety"
+  ],
+  "error_type": "unsafe_clinical_recommendation",
+  "severity": "critical",
+  "outcome": "FAIL",
+  "error_description": "The response recommends delaying empiric antibiotics until CSF results are available.",
+  "potential_harm": "Delayed treatment may increase the risk of neurological complications and mortality.",
+  "evidence_sources": [
+    "WHO Guidelines on Meningitis Diagnosis, Treatment and Care (2025)",
+    "NICE NG240 (2024)"
+  ],
+  "evaluation_type": "illustrative_case"
+}
