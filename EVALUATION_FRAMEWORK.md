@@ -38,6 +38,19 @@ Severity reflects the potential consequences of an error, not the probability th
 4. Verify relevant claims against authoritative sources.
 5. Document a corrected response and assign an evaluation outcome.
 
+## Evidence verification
+
+For each clinically important claim, I assess whether the supporting evidence is appropriate and accurately represented.
+
+The review includes:
+
+1. **Source validity:** Does the cited guideline, publication, or regulatory document exist?
+2. **Source relevance:** Does it address the specific clinical question?
+3. **Claim consistency:** Does the source support the recommendation being evaluated?
+4. **Currency:** Is the evidence sufficiently current for the clinical context?
+5. **Uncertainty:** Are limitations or areas of clinical uncertainty acknowledged?
+
+A citation is not considered reliable merely because it appears plausible. Where verification is incomplete, this is explicitly documented.
 ## Limitations
 
 Evaluations are based on individual responses and the clinical information provided. They do not establish overall model performance. Severity ratings involve clinical judgment and should not be interpreted as validated estimates of real-world patient harm.
