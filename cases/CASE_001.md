@@ -40,8 +40,6 @@ Antibiotic therapy should subsequently be adjusted according to microbiological 
 
 Both guidelines recommend prompt empiric antibiotic treatment when bacterial meningitis is suspected. Lumbar puncture should be performed before antibiotics when safe and feasible, but diagnostic investigations must not cause a clinically significant delay in treatment. Waiting for CSF results before initiating antibiotics is therefore inconsistent with these recommendations.
 
-Guideline references and verification of the corrective recommendation are pending.
-
 ## Evaluation limitations
 
 This assessment concerns a single illustrative response. It does not measure the performance of any particular AI model or establish how frequently similar errors occur.
