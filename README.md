@@ -1,4 +1,4 @@
-ClariSafe
+## ClariSafe
 
 Clinical evaluation of AI-generated medical responses
 
@@ -25,6 +25,6 @@ See the [evaluation framework](EVALUATION_FRAMEWORK.md) for the assessment crite
 
 Each case includes the original response, the clinical assessment, an explanation of the safety concern, and a suggested correction. Supporting references are added after verification.
 
-About this project
+## About this project
 
 ClariSafe is an independent portfolio project. The cases are intended to illustrate clinical evaluation methods rather than provide medical advice. They are not presented as benchmark results for any particular AI model.
