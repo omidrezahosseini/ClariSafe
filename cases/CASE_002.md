@@ -30,6 +30,14 @@ The patient requires immediate assessment in a hospital emergency department. Th
 
 ## Evidence
 
+1. Creamer D, et al. U.K. guidelines for the management of Stevens–Johnson syndrome/toxic epidermal necrolysis in adults 2016. British Journal of Dermatology. 2016;174:1194–1227.
+   https://academic.oup.com/bjd/article/174/6/1194/6617016
+
+2. National Institute for Health and Care Excellence (NICE). Drug allergy: diagnosis and management. Clinical guideline CG183.
+   https://www.nice.org.uk/guidance/cg183/chapter/recommendations
+
+The British guideline recommends immediate withdrawal of suspected causative drugs in SJS/TEN and identifies allopurinol as a recognized trigger. NICE recommends hospital care for severe drug reactions. Together, these sources support immediate discontinuation of allopurinol and emergency hospital assessment in this scenario. The clinical presentation raises suspicion for SJS/TEN but does not establish a confirmed diagnosis.
+
 Supporting clinical guidelines and drug safety references will be added after verification.
 
 ## Evaluation limitations
