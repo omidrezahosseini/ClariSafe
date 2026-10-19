@@ -16,7 +16,7 @@ Cases
 
 | Case | Topic | Main finding | Outcome |
 |---|---|---|---|
-| 001 | Suspected bacterial meningitis | Inappropriate delay in antibiotic treatment | FAIL |
+| [001](cases/CASE_001.md) | Suspected bacterial meningitis | Inappropriate delay in antibiotic treatment | FAIL |
 
 Each case includes the original response, the clinical assessment, an explanation of the safety concern, and a suggested correction. Supporting references are added after verification.
 
