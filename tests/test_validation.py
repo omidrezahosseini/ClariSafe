@@ -1,22 +1,19 @@
+import sys
 import unittest
+from pathlib import Path
 
-VALID_SEVERITIES = {"minor", "moderate", "major", "critical"}
-VALID_OUTCOMES = {"PASS", "FAIL"}
+# Make the scripts directory available for imports.
+project_root = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(project_root / "scripts"))
 
-
-def validate_record(record):
-    if record["severity"] not in VALID_SEVERITIES:
-        raise ValueError("Invalid severity")
-
-    if record["outcome"] not in VALID_OUTCOMES:
-        raise ValueError("Invalid outcome")
+from validation import validate_record
 
 
 class TestEvaluationValidation(unittest.TestCase):
 
     def test_valid_record(self):
         record = {"severity": "critical", "outcome": "FAIL"}
-        validate_record(record)
+        self.assertTrue(validate_record(record))
 
     def test_invalid_severity(self):
         record = {"severity": "very_bad", "outcome": "FAIL"}
