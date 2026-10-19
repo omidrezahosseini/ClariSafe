@@ -22,6 +22,7 @@ See the [evaluation framework](EVALUATION_FRAMEWORK.md) for the assessment crite
 | Case | Topic | Main finding | Outcome |
 |---|---|---|---|
 | [001](cases/CASE_001.md) | Suspected bacterial meningitis | Inappropriate delay in antibiotic treatment | FAIL |
+| [002](cases/CASE_002.md) | Allopurinol-associated severe cutaneous adverse reaction | Unsafe recommendation to continue allopurinol | FAIL |
 
 Each case includes the original response, the clinical assessment, an explanation of the safety concern, and a suggested correction. Supporting references are added after verification.
 
