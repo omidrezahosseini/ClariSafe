@@ -12,6 +12,11 @@ The evaluations focus on three questions:
 - Could following the recommendation cause harm?
 - Is the recommendation consistent with current clinical evidence?
 
+## Evaluation approach
+
+I use a consistent framework to assess clinical accuracy, patient safety, evidence, and completeness. Errors are classified by severity, and each assessment includes a documented rationale.
+
+See the [evaluation framework](EVALUATION_FRAMEWORK.md) for the assessment criteria and definitions.
 Cases
 
 | Case | Topic | Main finding | Outcome |
