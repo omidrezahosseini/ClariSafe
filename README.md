@@ -18,7 +18,7 @@ I use a consistent framework to assess clinical accuracy, patient safety, eviden
 
 See the [evaluation framework](EVALUATION_FRAMEWORK.md) for the assessment criteria and definitions.
 
-
+## Cases
 | Case | Topic | Main finding | Outcome |
 |---|---|---|---|
 | [001](cases/CASE_001.md) | Suspected bacterial meningitis | Inappropriate delay in antibiotic treatment | FAIL |
